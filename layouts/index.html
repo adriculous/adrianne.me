@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ .Site.Title }}</title>
+
+ <!-- Favicon -->
+  <link rel="icon" href="/favicon.png" type="image/png">
+
+ <!-- Font Awesome local -->
+<link rel="stylesheet" href="/vendor/fontawesome/css/all.min.css" />
+
+  <!-- PaperCSS -->
+  <link rel="stylesheet" href="https://unpkg.com/papercss@1.9.2/dist/paper.min.css" />
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/custom.css" />
+</head>
+<body>
+    <!-- main content -->
+    <main class="container margin-y">
+    <div class="leaf-border top-border"></div>
+
+    <div class="intro-header">
+        <h1 class="section-title">🍂 index.adrianne 🍂</h1>
+        <p class="subtitle">a.k.a. <code>adrianne.link()</code></p>
+        <p class="tagline">a cozy dev-coded linkboard for all things me 🍁</p>
+    </div>
+
+    {{ .Content }}
+
+    <div class="leaf-border bottom-border"></div>
+    </main>
+
+    <!-- separate footer card -->
+    <footer class="footer-container">
+        <div class="footer-inner">
+            <p>
+            © <span id="year"></span> <span class="highlight">Adrianne Padua</span>. Hand-coded with 🍁 & ✨ & ☕ in the Yay Area<br>
+            <em>Built with <a href="https://gohugo.io/" target="_blank">Hugo</a> and <a href="https://www.getpapercss.com/" target="_blank">PaperCSS</a>. Shoutout to the <span class="highlight">Sampal Squad</span>.</em>
+            </p>
+        </div>
+    </footer>
+
+        <script>
+            // JavaScript to auto-fill the current year
+            document.getElementById('year').textContent = new Date().getFullYear();
+        </script>
+</body>
+</html>

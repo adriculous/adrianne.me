@@ -1,0 +1,316 @@
+/* 🍁 index.adrianne (https://adrianne.me) v1 - Autumn Theme */
+
+@font-face {
+  font-family: 'Diary Autumn';
+  src: url('/fonts/DiaryAutumn.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background-image: url('/images/bg-autumn-papercut.webp');
+  background-repeat: repeat;
+  background-size: 400px 400px;
+  background-position: top left;
+  background-attachment: fixed;
+  background-color: #FFDEA3;
+}
+
+.margin-y {
+  margin-top: 4rem;   /* Or even try 1.5rem */
+  margin-bottom: 4rem;
+}
+
+/* LEAF BORDER DECORATION */
+.leaf-border {
+  width: 100%;
+  height: 120px;
+  background-image: url('/images/leaf-border.png');
+  background-repeat: repeat-x;
+  background-size: contain;
+}
+
+.top-border {
+  transform: rotate(0deg); /* Optional: flip if needed */
+}
+
+.bottom-border {
+  transform: rotate(180deg);
+}
+
+/* 📜 Content box – handmade paper texture */
+.container {
+  background: 
+    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)),
+    url('/images/ep_naturalwhite.webp');
+  background-repeat: repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-clip: padding-box;
+
+  width: 100%;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+}
+
+.intro-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.section-title {
+  font-family: 'Diary Autumn', cursive;
+  color: #b35b32; /* warm rusty red */
+  font-size: 2.25rem;
+  margin-top: 2rem;
+}
+
+.subtitle {
+  font-size: 1.125rem;
+  margin-bottom: 2rem;
+  font-family: 'IBM Plex Mono', monospace;
+  color: #6e4c3c;
+}
+
+.tagline {
+  font-size: 1rem;
+  color: #8c5e3c;
+  margin-bottom: 2rem;
+  font-style: italic;
+}
+
+/* Optional link styling */
+a {
+  color: #a83838;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6e4c3c;
+}
+
+/* ===============================
+   SOCIAL ICONS FINAL STYLES 🎨
+   =============================== */
+
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem auto;
+}
+
+.social-button {
+  width: 48px;
+  height: 48px;
+  background-color: transparent;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 12px; /* squircle style */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+  text-decoration: none !important;
+}
+
+.social-button:hover {
+  transform: scale(1.1);
+  border-color: #a83838;
+}
+
+/* FONT AWESOME COLORS */
+.fa-twitter { color: #1DA1F2; }
+.fa-bluesky { color: #1181FE; }
+.fa-instagram { color: #E4405F; }
+.fa-linkedin { color: #0077B5; }
+.fa-github { color: #181717; }
+.fa-codepen { color: #000000; }
+.fa-pixiv { color: #0096FA; }
+
+/* FIX IMAGE ICONS (Replit, Cara) */
+.social-button img.svg-icon {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+  display: block;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  filter: none !important;
+  transition: transform 0.3s ease;
+}
+
+/* REMOVE underlines and other junk */
+.social-links a {
+  text-decoration: none !important;
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+/* ===============================
+   ACTIVE SITES 🎨
+   =============================== */
+
+    .index-btn {
+    background-color: #f9d6e8;
+    color: #4a2c2a;
+    }
+
+   .pba-btn {
+    background-color: #eef7fb;
+    color: #1f3a52;
+    }
+
+    .data-btn {
+    background-color: #f7ecd9;
+    color: #4a2f1c;
+    }
+
+    .space-btn {
+    background-color: #e4e8f1;
+    color: #2c2d59;
+    }
+
+    .starmin-btn {
+    background-color: #f2dfff;
+    color: #5a3d63;
+    }
+
+/* Light boxy styling for sections (like future sticky notes)
+.note {
+  background-color: #fdf6e3;
+  border: 2px dashed #d8a441;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 10px;
+} */
+
+
+/* ===============================
+   FOOTER AREA (updated 🎯)
+   =============================== */
+
+.footer-container {
+  background: 
+    linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)),
+    url('/images/ep_naturalwhite.webp');
+  background-repeat: repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  background-clip: padding-box;
+
+  padding: 2rem;
+  margin: 2rem auto 3rem auto;
+  border-radius: 1rem;
+  max-width: 768px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+
+  text-align: center;
+  color: #4a2c21;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.footer-container p {
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+  color: #5c3e33;
+}
+
+.footer-container .highlight {
+  color: #b25334; /* leaf accent color */
+  font-weight: bold;
+}
+
+.footer-inner {
+  max-width: 768px;         /* Match .container width */
+  width: 100%;
+  text-align: center;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #5c3e33;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-inner .highlight {
+  color: #b25334;
+  font-weight: bold;
+}
+
+.footer-container p {
+  margin: 0;
+}
+
+/* ===============================
+   CONTACT FORm ✉️
+   =============================== */
+
+.contact-box {
+  margin-top: 3rem;
+  padding: 2rem;
+  background: var(--paper);
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.contact-box h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #8b5e3c; /* warm brown accent */
+}
+
+.contact-box label {
+  display: block;
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.contact-box input,
+.contact-box textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  font-family: inherit;
+  margin-top: 0.5rem;
+}
+
+/* form {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  max-width: 500px;
+} */
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 1rem;
+  font-family: inherit;
+}
+
+.btn-primary {
+  display: inline-block;
+  padding: 0.75rem 1.25rem;
+  background-color: #b25334;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btn-primary:hover {
+  background-color: #8c3e25;
+}
+
+.hidden {
+  display: none;
+}

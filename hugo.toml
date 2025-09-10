@@ -1,0 +1,6 @@
+baseURL = 'https://adrianne.me/'
+languageCode = 'en-us'
+title = 'index.adrianne'
+
+[markup.goldmark.renderer]
+unsafe = true
