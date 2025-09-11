@@ -14,6 +14,12 @@ This site was made using the following:
 
 Curious? You can check out the [repo](https://github.com/adriculous/adrianne.me) here.
 
+### 🔡 Fonts
+
+- **Site Name Font**: [Diary Autumn](https://fontbundles.net/yogaletter6/2129791-diary-autumn)
+- **Body Font**: default PaperCSS font
+
+
 ### 🎨 Graphics & Icons
 
 - **Papercut Autumn Leaf pattern background**: [Design Bundles](https://designbundles.net)  
