@@ -1,6 +1,5 @@
 ---
 title: "Colophon"
-layout: "index"
 ---
 
 ## 🍁 Colophon
