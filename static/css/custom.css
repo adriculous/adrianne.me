@@ -21,6 +21,11 @@ body {
   margin-bottom: 4rem;
 }
 
+.no-underline {
+  text-decoration: none;
+  color: inherit; /* Keeps the same text color */
+}
+
 /* LEAF BORDER DECORATION */
 .leaf-border {
   width: 100%;
