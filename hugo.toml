@@ -4,3 +4,5 @@ title = 'index.adrianne'
 
 [markup.goldmark.renderer]
 unsafe = true
+
+disableKinds = ["taxonomy", "term"]

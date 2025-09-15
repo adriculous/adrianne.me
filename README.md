@@ -37,7 +37,7 @@ README.md          → You are here!
 
 ## 🧡 About This Site
 
-This site was created as a personal space on the indie web, blending cozy vibes, pastel colors, and hand-written content. It’s a quiet digital home away from the noise of social media, made with care and curiosity.
+This site was created as a personal link-in-bio space on the web, blending cozy vibes, autumn colors, and hand-written content. I may expand this into a full-blown site collective hub, but for now, just a link-in-bio page. Hope you enjoy exploring my (chaotic) creations!
 
 ---
 

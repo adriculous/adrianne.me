@@ -434,3 +434,48 @@ form textarea {
     text-align: center;
   }
 }
+
+/* ===============================
+   NOT BY AI BADGE STYLES 🛡️
+   =============================== */
+
+.not-by-ai-badge {
+  margin: 1rem auto 0;
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+
+.not-by-ai-badge img {
+  display: block;
+  margin: 1.5rem auto 0;
+  max-width: 160px;
+  height: auto;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.not-by-ai-badge img:hover {
+  opacity: 1;
+}
+
+/* Override PaperCSS sketchy styles on Not By AI image */
+footer .not-by-ai-badge img.not-by-ai {
+  all: unset !important;
+  display: block !important;
+  margin: 1.5rem auto 0 !important;
+  max-width: 160px;
+  height: auto;
+}
+
+footer .not-by-ai-badge a {
+  all: unset;
+  display: block;
+  margin: auto 0;
+}
+
+footer img.not-by-ai::before,
+footer img.not-by-ai::after {
+  content: none !important;
+  display: none !important;
+}
