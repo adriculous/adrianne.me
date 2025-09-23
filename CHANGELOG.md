@@ -6,7 +6,13 @@ All notable changes to this project will be documented here.
 
 ---
 
-### [v1.0.2] - 2025-09-15
+## [v1.0.3] - 2025-09-22
+### Added
+- Added some [Shields.io](https://shields.io) badges to the `README.md` Tech Stack section because I want to add a bit of *kawaii* on my README file.
+  
+---
+
+## [v1.0.2] - 2025-09-15
 ### Fixed
 - Changed *Yay Area* footer text to *East Yay*, to specify that I reside in the 510. I also linked to the Wikipedia page for *San Francisco Bay Area* for those who don't know what *Yay Area* or *"East Yay"* refers to.
 - Split `index.html` file into partial files: `head.html`, `header.html`, `footer.html`, `js-footer.html`, so that it saves time when updating and also exactly matches `single.html`
