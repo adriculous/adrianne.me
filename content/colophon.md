@@ -17,8 +17,7 @@ Curious? You can check out the [repo](https://github.com/adriculous/adrianne.me)
 ### 🔡 Fonts
 
 - **Site Name Font**: [Diary Autumn](https://fontbundles.net/yogaletter6/2129791-diary-autumn)
-- **Body Font**: default PaperCSS font
-
+- **Header and Body Font**: default PaperCSS font
 
 ### 🎨 Graphics & Icons
 
