@@ -6,6 +6,12 @@ All notable changes to this project will be documented here.
 
 ---
 
+## [v1.0.5] - 2025-10-06
+### Updated
+- Replaced *Adrianne's Data (old)* link with the new **Patterned by Adrianne** link, which is my newly rebuilt data analytics portfolio site. The main domain will be soon be rebuilt into a portfolio portal.
+
+---
+
 ## [v1.0.4] - 2025-09-29
 ### Added
 - Added a **Privacy & GDPR Notice** page, linked in the footer. This is to comply with GDPR regulations, even though I don't expect to get many visitors from the EEA. The page outlines what data I collect, how I use it, and the rights of EEA visitors regarding their personal data. This notice also applies to all the other sites I've built. This will be the only Privacy/GDPR Notice page to exist and it applies to all of my personal sites, not just this one.

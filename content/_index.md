@@ -63,7 +63,7 @@ Please check them out! They're way more fun and interesting than just reading a 
 <div class="row flex-center flex-wrap">
     <a class="paper-btn index-btn" href="https://adrianne.me" target="_blank">index.adrianne</a>
     <a class="paper-btn pba-btn" href="https://ai.adrianne.io" target="_blank">Prompted by Adrianne</a>
-    <a class="paper-btn data-btn" href="https://adrianne.io" target="_blank">Adrianne’s Data (Old)</a>
+    <a class="paper-btn data-btn" href="https://data.adrianne.io" target="_blank">Patterned by Adrianne</a>
     <a class="paper-btn space-btn" href="https://adrianne.space" target="_blank">Adrianne’s Space</a>
     <a class="paper-btn starmin-btn" href="https://starmin.blog" target="_blank">STARMIN.blog</a>
 </div>
@@ -74,12 +74,13 @@ Please check them out! They're way more fun and interesting than just reading a 
 
 As you can see, I'm not finished yet.  
 
+- **Portal by Adrianne** - My upcoming portfolio portal site
 - **Adri Mars Studio** — Art, stickers & sozai
 - **Adrianne's Data (New)** — Case studies & analytics revamp
 - **Adrianne Codes (revamp)** - future web design/dev tutorials & more
 - **Forks @ ADRIANNE.io** — Script archive & plugin sandbox
-- **Let's Volt IN!** — Mecha-themed anime & video game shrine collective
-- **The Ninpojineous** — Non-mecha anime & video game shrine + fanlisting collective
+- **Let's Volt IN!** — Anime, manga, & video game shrine collective
+- **The Ninpojineous** — Miscellaneous shrines + fanlisting collective
 
 ---
 
