@@ -76,7 +76,6 @@ As you can see, I'm not finished yet.
 
 - **Portal by Adrianne** - My upcoming portfolio portal site
 - **Adri Mars Studio** — Art, stickers & sozai
-- **Adrianne's Data (New)** — Case studies & analytics revamp
 - **Adrianne Codes (revamp)** - future web design/dev tutorials & more
 - **Forks @ ADRIANNE.io** — Script archive & plugin sandbox
 - **Let's Volt IN!** — Anime, manga, & video game shrine collective
