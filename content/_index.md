@@ -41,7 +41,7 @@ Prefer another social media app that’s not listed? Just use the contact form b
   <a class="social-button" href="https://codepen.io/adriculous" target="_blank" ref="noopener noreferrer" title="CodePen">
     <i class="fa-brands fa-codepen"></i>
   </a>
-  <a class="social-button" href="https://pixiv.me/adriculous" target="_blank" rel="noopener noreferrer" title="Pixiv">
+  <a class="social-button" href="https://www.pixiv.net/en/users/19003830" target="_blank" rel="noopener noreferrer" title="Pixiv">
     <i class="fa-brands fa-pixiv"></i>
   </a>
   <a class="social-button" href="https://replit.com/@adriculous" target="_blank" rel="noopener noreferrer" title="Replit">
