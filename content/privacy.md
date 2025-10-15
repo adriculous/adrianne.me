@@ -8,6 +8,7 @@ draft: false
 
 This website is part of the **adrianne.io network** of personal portfolio and creative projects, including:
 
+- [Portal by Adrianne (adrianne.io)](https://adrianne.io)
 - [Prompted by Adrianne (ai.adrianne.io)](https://ai.adrianne.io)  
 - [Patterned by Adrianne (data.adrianne.io)](https://data.adrianne.io)  
 - [index.adrianne (adrianne.me)](https://adrianne.me)
