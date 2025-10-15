@@ -6,6 +6,12 @@ All notable changes to this project will be documented here.
 
 ---
 
+## [v.1.0.6] - 2025-10-14
+### Added
+- Added a new link button for [**Portal by Adrianne**](https://adrianne.io). I converted my old data analytics portfolio into a portfolio portal site. *Portal* will be my portfolio hub, which will link to all the sites hosted under this domain, as well as stand-alone domains that feature some of my skill-related projects.
+
+---
+
 ## [v1.0.5] - 2025-10-06
 ### Updated
 - Replaced *Adrianne's Data (old)* link with the new **Patterned by Adrianne** link, which is my newly rebuilt data analytics portfolio site. The main domain will be soon be rebuilt into a portfolio portal.

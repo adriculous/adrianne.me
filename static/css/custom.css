@@ -165,6 +165,11 @@ a:hover {
     color: #4a2c2a;
     }
 
+    .portal-btn {
+    background-color: #c3e4ed;
+    color: #1f3a3a;
+    }
+
    .pba-btn {
     background-color: #eef7fb;
     color: #1f3a52;
@@ -479,3 +484,4 @@ footer img.not-by-ai::after {
   content: none !important;
   display: none !important;
 }
+
