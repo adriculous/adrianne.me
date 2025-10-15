@@ -75,7 +75,6 @@ Please check them out! They're way more fun and interesting than just reading a 
 
 As you can see, I'm not finished yet.  
 
-- **Portal by Adrianne** - My upcoming portfolio portal site
 - **Adri Mars Studio** — Art, stickers & sozai
 - **Adrianne Codes (revamp)** - future web design/dev tutorials & more
 - **Forks @ ADRIANNE.io** — Script archive & plugin sandbox
