@@ -47,7 +47,7 @@ Prefer another social media app that’s not listed? Just use the contact form b
   <a class="social-button" href="https://replit.com/@adriculous" target="_blank" rel="noopener noreferrer" title="Replit">
     <img src="/images/Replit_Logo_Symbol.svg" alt="Replit" class="svg-icon" />
   </a>
-  <a class="social-button" href="https://cara.app/adrianne" target="_blank" rel="noopener noreferrer" title="Cara">
+  <a class="social-button" href="https://cara.app/adrimars" target="_blank" rel="noopener noreferrer" title="Cara">
     <img src="/images/cara-app-logo-circle.svg" alt="Cara" class="svg-icon" />
   </a>
 </div>
@@ -63,8 +63,8 @@ Please check them out! They're way more fun and interesting than just reading a 
 <div class="row flex-center flex-wrap">
     <a class="paper-btn index-btn" href="https://adrianne.me" target="_blank">index.adrianne</a>
     <a class="paper-btn portal-btn" href="https://adrianne.io" target="_blank">Portal by Adrianne</a>
-    <a class="paper-btn pba-btn" href="https://ai.adrianne.io" target="_blank">Prompted by Adrianne</a>
-    <a class="paper-btn data-btn" href="https://data.adrianne.io" target="_blank">Patterned by Adrianne</a>
+    <!-- <a class="paper-btn pba-btn" href="https://ai.adrianne.io" target="_blank">Prompted by Adrianne</a>
+    <a class="paper-btn data-btn" href="https://data.adrianne.io" target="_blank">Patterned by Adrianne</a> -->
     <a class="paper-btn space-btn" href="https://adrianne.space" target="_blank">Adrianne’s Space</a>
     <a class="paper-btn starmin-btn" href="https://starmin.blog" target="_blank">STARMIN.blog</a>
 </div>

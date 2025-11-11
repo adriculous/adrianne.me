@@ -6,6 +6,13 @@ All notable changes to this project will be documented here.
 
 ---
 
+## [v.1.0.7] - 2025-11-11
+### Updated
+- Updated the link to Cara app with the correct username.
+- Removed the `adrianne.io` subdomains from the main links section. From this point on, only whole domains will be linked here.
+
+---
+
 ## [v.1.0.6] - 2025-10-14
 ### Added
 - Added a new link button for [**Portal by Adrianne**](https://adrianne.io). I converted my old data analytics portfolio into a portfolio portal site. *Portal* will be my portfolio hub, which will link to all the sites hosted under this domain, as well as stand-alone domains that feature some of my skill-related projects.
