@@ -6,6 +6,12 @@ All notable changes to this project will be documented here.
 
 ---
 
+## [v.1.0.8] - 2025-11-18
+### Updated
+- Just noticed now that some of my social links are incorrect. Fixed the following social media links for Bluesky, Instagram, and LinkedIn. The rest should be correct.
+- 
+---
+
 ## [v.1.0.7] - 2025-11-11
 ### Updated
 - Updated the link to Cara app with the correct username.

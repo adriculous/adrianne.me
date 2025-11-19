@@ -26,13 +26,13 @@ Prefer another social media app that’s not listed? Just use the contact form b
   <a class="social-button" href="https://twitter.com/adriculous" target="_blank" rel="noopener noreferrer" title="Twitter">
     <i class="fa-brands fa-twitter"></i>
   </a>
-  <a class="social-button" href="https://bsky.app/profile/adriculous.bsky.social" target="_blank" rel="noopener noreferrer" title="Bluesky">
+  <a class="social-button" href="https://bsky.app/profile/adrianne.io" target="_blank" rel="noopener noreferrer" title="Bluesky">
     <i class="fa-brands fa-bluesky"></i>
   </a>
-  <a class="social-button" href="https://instagram.com/adrimars" target="_blank" rel="noopener noreferrer" title="Instagram">
+  <a class="social-button" href="https://instagram.com/adrimarsink" target="_blank" rel="noopener noreferrer" title="Instagram">
     <i class="fa-brands fa-instagram"></i>
   </a>
-  <a class="social-button" href="https://www.linkedin.com/in/adriannepadua/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+  <a class="social-button" href="https://www.linkedin.com/in/adrianne-padua/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <i class="fa-brands fa-linkedin"></i>
   </a>
   <a class="social-button" href="https://github.com/adriculous" target="_blank" ref="noopener noreferrer" title="GitHub">
