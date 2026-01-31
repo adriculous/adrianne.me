@@ -6,10 +6,17 @@ All notable changes to this project will be documented here.
 
 ---
 
+## [v.1.0.8] - 2026-01-30
+## Updated
+- I will be retiring **ADRIANNE'S SPACE** and officially transferred to **Adrianne's Blog** *(https://adrianne.blog)*. Because of this, i replaced the link to the new domain.
+- Added **Adrianne's Blog** link at `privacy.md`.
+
+---
+
 ## [v.1.0.8] - 2025-11-18
 ### Updated
 - Just noticed now that some of my social links are incorrect. Fixed the following social media links for Bluesky, Instagram, and LinkedIn. The rest should be correct.
-- 
+
 ---
 
 ## [v.1.0.7] - 2025-11-11

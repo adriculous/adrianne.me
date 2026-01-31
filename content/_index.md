@@ -63,9 +63,7 @@ Please check them out! They're way more fun and interesting than just reading a 
 <div class="row flex-center flex-wrap">
     <a class="paper-btn index-btn" href="https://adrianne.me" target="_blank">index.adrianne</a>
     <a class="paper-btn portal-btn" href="https://adrianne.io" target="_blank">Portal by Adrianne</a>
-    <!-- <a class="paper-btn pba-btn" href="https://ai.adrianne.io" target="_blank">Prompted by Adrianne</a>
-    <a class="paper-btn data-btn" href="https://data.adrianne.io" target="_blank">Patterned by Adrianne</a> -->
-    <a class="paper-btn space-btn" href="https://adrianne.space" target="_blank">Adrianne’s Space</a>
+    <a class="paper-btn space-btn" href="https://adrianne.blog" target="_blank">Adrianne’s Blog</a>
     <a class="paper-btn starmin-btn" href="https://starmin.blog" target="_blank">STARMIN.blog</a>
 </div>
 
@@ -73,13 +71,13 @@ Please check them out! They're way more fun and interesting than just reading a 
 
 ### 🕒 Coming Soon (✨ not linked yet)
 
-As you can see, I'm not finished yet.  
+Yes, there will be more!  
 
 - **Adri Mars Studio** — Art, stickers & sozai
-- **Adrianne Codes (revamp)** - future web design/dev tutorials & more
+- **Adrianne Codes (revamp)** - future web design/dev tutorials & more *(currently in the works)*
 - **Forks @ ADRIANNE.io** — Script archive & plugin sandbox
-- **Let's Volt IN!** — Anime, manga, & video game shrine collective
-- **The Ninpojineous** — Miscellaneous shrines + fanlisting collective
+- **Let's Volt IN!** — Anime, manga, & video game shrine collective (maybe a fanlisting collective)
+- **The Ninpojineous** — A blog about stories -- contains reviews and thoughts about any story in any format: novel, movie, anime, manga, video games, etc.
 
 ---
 
