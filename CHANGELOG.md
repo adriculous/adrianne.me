@@ -6,8 +6,17 @@ All notable changes to this project will be documented here.
 
 ---
 
-## [v.1.0.8] - 2026-01-30
-## Updated
+## [v.1.10] - 2026-03-16
+### Updated
+- I added my new Mastodon account through [omg.lol](https://omg.lol)'s *social.lol* instance. If you have Mastodon (or if you're a member of **omg.lol**), hope we can connect.
+- Changed a bit of the format on the **Privacy** page.
+- Fixed the CHANGELOG format. I noticed that there are some booboos from my last update.
+
+
+---
+
+## [v.1.0.9] - 2026-01-30
+### Updated
 - I will be retiring **ADRIANNE'S SPACE** and officially transferred to **Adrianne's Blog** *(https://adrianne.blog)*. Because of this, i replaced the link to the new domain.
 - Added **Adrianne's Blog** link at `privacy.md`.
 
