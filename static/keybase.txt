@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/adriculous
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adrianne.me
+  * I am adriculous (https://keybase.io/adriculous) on keybase.
+  * I have a public key ASDDZaNUtLI1FUntejuDOKVHOBkynr8k-XQzyf6H1GwJgQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204f0f1a9f52a78d070148cd001b23bfa267f6351d684ee364cf8f71763249b4a50a",
+      "host": "keybase.io",
+      "kid": "0120c365a354b4b2351549ed7a3b8338a5473819329ebf24f97433c9fe87d46c09810a",
+      "uid": "7556f81c58c1efa778646c7682627719",
+      "username": "adriculous"
+    },
+    "merkle_root": {
+      "ctime": 1775158746,
+      "hash": "87a63fb92281e9c3f51c2b96c2dc6352185e1e9aaa0e06a10c3f8da5ddf19805d226fdd21420931ce10f358e232c577d237b2e13837e6e5113b3be34139f13ac",
+      "hash_meta": "1b7df073fb4c39b5d00d34745579b45e0590c89ac7bffd317103d3de936b44ec",
+      "seqno": 27505074
+    },
+    "service": {
+      "entropy": "nrAq+OEfH7oIzYXrVgxotyKT",
+      "hostname": "adrianne.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.6.0"
+  },
+  "ctime": 1775158923,
+  "expire_in": 504576000,
+  "prev": "75b118b2735365d276ec1dbba08a20945b772bd8f6ac4695fbe848b48f14c24c",
+  "seqno": 40,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgw2WjVLSyNRVJ7Xo7gzilRzgZMp6/JPl0M8n+h9RsCYEKp3BheWxvYWTESpcCKMQgdbEYsnNTZdJ27B27oIoglFt3K9j2rEaV++hItI8UwkzEILNzL+BVVT0GGpJGQyH3EMg4Sp74AVTUxU45AP5XwpdqAgHCo3NpZ8RAuwergmxP9PNlXEWLT2p8oVgXzAssv+aeIWbRLR1umAB5k1DhE6K9dkm+dgx2Ps610G4jCjmBybA8601nQoWoBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPFULIKhnt1BWiYDOyosQ+L+BsQvSp30cIxnCtRni7uQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adriculous
+
+==================================================================
