@@ -165,6 +165,16 @@ a:hover {
     color: #4a2c2a;
     }
 
+    .blog-btn {
+    background-color: #e4e8f1;
+    color: #2c2d59;
+    }
+
+    .codes-btn {
+    background-color: #d6e4ff; /* soft pastel blue */
+    color: #1f2f4a;
+    }
+
     .portal-btn {
     background-color: #c3e4ed;
     color: #1f3a3a;
@@ -178,11 +188,6 @@ a:hover {
     .data-btn {
     background-color: #f7ecd9;
     color: #4a2f1c;
-    }
-
-    .space-btn {
-    background-color: #e4e8f1;
-    color: #2c2d59;
     }
 
     .starmin-btn {

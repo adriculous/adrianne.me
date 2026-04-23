@@ -66,8 +66,8 @@ Please check them out! They're way more fun and interesting than just reading a 
 <div class="row flex-center flex-wrap">
     <a class="paper-btn index-btn" href="https://adrianne.me" target="_blank">index.adrianne</a>
     <a class="paper-btn portal-btn" href="https://adrianne.io" target="_blank">Portal by Adrianne</a>
-    <a class="paper-btn space-btn" href="https://adrianne.blog" target="_blank">Adrianne’s Blog</a>
-    <a class="paper-btn starmin-btn" href="https://starmin.blog" target="_blank">STARMIN.blog</a>
+    <a class="paper-btn blog-btn" href="https://adrianne.blog" target="_blank">Adrianne’s Blog</a>
+    <a class="paper-btn codes-btn" href="https://adrianne.codes" target="_blank">Adrianne Codes</a>
 </div>
 
 ---

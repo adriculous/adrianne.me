@@ -6,6 +6,15 @@ All notable changes to this project will be documented here.
 
 ---
 
+## [v.1.11] - 2026-04-22
+## Added
+- Coding and documentation portfolio, **Adrianne Codes** is now open. Button has been added under **Active Sites** section
+
+## Updated
+- Removed **STARMIN.blog** for the time being, as I'm not currently active with this fansite/blog. Who knows when (or rather IF) I plan to make this site active again.
+
+---
+
 ## [v.1.10] - 2026-03-16
 ### Updated
 - I added my new Mastodon account through [omg.lol](https://omg.lol)'s *social.lol* instance. If you have Mastodon (or if you're a member of **omg.lol**), hope we can connect.
