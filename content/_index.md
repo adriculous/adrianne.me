@@ -77,8 +77,7 @@ Please check them out! They're way more fun and interesting than just reading a 
 Yes, there will be more!  
 
 - **Adri Mars Studio** — Art, stickers & sozai
-- **Adrianne Codes (revamp)** - future web design/dev tutorials & more *(currently in the works)*
-- **Forks @ ADRIANNE.io** — Script archive & plugin sandbox
+- **Forks** — Script archive & experiment sandbox *(next project!)*
 - **Let's Volt IN!** — Anime, manga, & video game shrine collective (maybe a fanlisting collective)
 - **The Ninpojineous** — A blog about stories -- contains reviews and thoughts about any story in any format: novel, movie, anime, manga, video games, etc.
 

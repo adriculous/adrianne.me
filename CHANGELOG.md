@@ -12,6 +12,7 @@ All notable changes to this project will be documented here.
 
 ## Updated
 - Removed **STARMIN.blog** for the time being, as I'm not currently active with this fansite/blog. Who knows when (or rather IF) I plan to make this site active again.
+- Removed **Adrianne Codes** from the **Coming Soon** section.
 
 ---
 
