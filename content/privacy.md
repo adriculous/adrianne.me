@@ -13,6 +13,7 @@ This website is part of the **adrianne.io network** of personal portfolio and cr
   - [Patterned by Adrianne (data.adrianne.io)](https://data.adrianne.io)  
 - [index.adrianne (adrianne.me)](https://adrianne.me)
 - [Adrianne's Blog (adrianne.blog)](https://adrianne.blog)
+- [Adrianne Codes (adrianne.codes)](https://adrianne.codes)
 
 ---
 
@@ -51,4 +52,4 @@ For any questions about this notice or your data rights, please use the **[Conta
 
 ---
 
-_Last updated: September 29, 2025_
+_Last updated: May 7, 2026_
